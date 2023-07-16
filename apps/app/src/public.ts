@@ -1,3 +1,5 @@
-import { fourtyTwo } from '~/some-constant';
+import { fourtyTwo } from "~/some-constant";
 
 export const someUtilFromApp = () => fourtyTwo;
+
+export { fourtyTwo };
